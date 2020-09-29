@@ -27,8 +27,5 @@ bool isComplete(Node* t)
     else
     {
         return false;
-    }
-    
-    
-    
+    }    
 }
